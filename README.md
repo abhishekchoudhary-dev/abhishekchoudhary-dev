@@ -39,5 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Abhishek-Tallinn&show_icons=true&theme=default&hide_border=true" alt="Abhishek's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Abhishek-Tallinn&hide_border=true" alt="Abhishek's GitHub streak" 
+  <img src="https://github-stats-extended.vercel.app/api?username=abhishekchoudhary-dev&show_icons=true&theme=default&hide_border=true" alt="Abhishek's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekchoudhary-dev&hide_border=true" alt="Abhishek's GitHub streak" height="165"/>
+</p>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekchoudhary-dev&layout=compact&hide_border=true" alt="Top languages" height="165"/> 
