@@ -1,19 +1,21 @@
 # Hi, I'm Abhishek Choudhary 👋
 
-📍 Tallinn, Estonia · Genuinely fascinated by the why behind the code: the math underneath DSA, the tradeoffs in system design, and how programming languages actually work under the hood. Currently building that foundation through **//Kood**, one algorithm and one architecture decision at a time.Currently building depth in **Java, Spring Boot, React/Next.js, Node.js, TypeScript, and Python**, while sharpening problem-solving fundamentals through daily DSA practice across multiple competitive programming platforms.
+📍 Tallinn, Estonia · Interested in the *why* behind the code: the math underneath DSA, the tradeoffs in system design, and what's actually happening inside a language runtime. Backend engineer with hands-on Java and Spring Boot experience, currently deepening my full-stack skills and sharpening problem-solving fundamentals across competitive programming platforms.
 
 ---
 
-### 🧠 What I'm doing
+### 🧠 What I'm working on
 
-- 🔭 Learning full-stack development (Java - Spring Boot - React/Next.js · TypeScript · Python) through //Kood
-- 📈 Solving DSA problems daily — LeetCode rating ~1640
+- 🔭 Building full-stack applications with Java · Spring Boot · React/Next.js · TypeScript · Python
+- 📈 Solving DSA problems daily — LeetCode rating ~1700
 - 🗂️ Tracking every DSA solution with structured, documented repos (approach, time/space complexity, links)
-- Currently Building :
-    - 🏛️ Permit Tracking & Document Management System — a GovTech-style platform where citizens submit permit applications and officers review/approve them, with a full status-history audit trail. Built with Spring Boot + React, modeled on real public-sector workflows.
-    - 🎨 Frontend Framework Practice — building out a standalone React + Vite + shadcn/ui frontend to sharpen component-driven UI skills and connect it to REST APIs.
-    - 🎮 A multiplayer browser game — experimenting with real-time state sync between players in the browser, as a way to get hands-on with sockets/event-driven architecture beyond typical CRUD apps.
-    - 🏆 Chasing rank milestones across platforms: Guardian on LeetCode, Orange on Codeforces, and 5★ on CodeChef
+- 🎓 Pursuing Masters in Computer Science & Artificial Intelligence at TalTech — 2026
+
+Currently building:
+- 🏛️ Permit Tracking & Document Management System — a GovTech-style platform where citizens submit permit applications and officers review/approve them, with a full audit trail. Built with Spring Boot + React, modeled on real public-sector workflows.
+- 🎨 React + Vite + shadcn/ui frontend — component-driven UI connected to REST APIs.
+- 🎮 Multiplayer browser game — real-time state sync between players using WebSockets and event-driven architecture.
+- 🏆 Chasing rank milestones: Guardian on LeetCode, Expert on Codeforces, 5★ on CodeChef
 
 ### 📚 DSA & Competitive Programming Repos
 
